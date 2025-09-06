@@ -1,4 +1,4 @@
-Q26: Write a program to print numbers from 1 to n.
+//Q26: Write a program to print numbers from 1 to n.
 
 #include <stdio.h>
 
@@ -19,3 +19,4 @@ int main() {
     printf("\n");
     return 0;
 }
+
