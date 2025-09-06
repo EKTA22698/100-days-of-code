@@ -1,4 +1,4 @@
-Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
+//Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
 
 #include <stdio.h>
 #include <math.h>
@@ -15,3 +15,4 @@ ci= a-p;
 
     return 0;
 }
+
