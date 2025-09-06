@@ -1,4 +1,4 @@
-Q5: Write a program to convert temperature from Celsius to Fahrenheit.
+//Q5: Write a program to convert temperature from Celsius to Fahrenheit.
 
 #include <stdio.h>
 
@@ -10,4 +10,5 @@ int main() {
     printf ("Temperature in fahrenheit : %.2f\n",F);
 
     return 0;
+
 }
